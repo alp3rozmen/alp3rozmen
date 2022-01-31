@@ -12,4 +12,4 @@
 # Merhaba, ben Alper ÖZMEN 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/alper-%C3%B6zmen-360198213//)
-[![Mail Badge](https://img.shields.io/badge/furkankupcu41@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alp3rozmen@gmail.com)](mailto:alp3rozmen@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/alp3rozmen@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alp3rozmen@gmail.com)](mailto:alp3rozmen@gmail.com)
