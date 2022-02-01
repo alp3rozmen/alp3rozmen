@@ -2,7 +2,7 @@
 ### Hi 👋 I'm Alper ÖZMEN
 
 <ul>
-      <li>📖 I’m currently learning more about Deep Learning </li>
+      <li>📖 I’m currently learning more about Web Development Learning </li>
       <li>🎮 I am interested in Web Development & Mobile Development</li>
       <li>📫 How to reach me: alp3rozmen@gmail.com</li>
 </ul>
